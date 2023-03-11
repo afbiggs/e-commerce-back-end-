@@ -4,9 +4,10 @@
   # Object-Relational Mapping (ORM) Challenge: E-commerce Back End
   
   ## Description
-  * **This application is not yet complete and is currently being worked on. This readme will continue to be updated and A message will appear when the application is complete and functioning.** 
 
   * This application is a working backend server that has the ability to host an e-commerce website and fullfil the requests that owners and users would require in order to successfully run their business. There is no front end for this application, however it does have routes for CREATING, UPDATING, READING, and DELETING.
+
+  link to video walkthrough: https://app.castify.com/view/519b90e3-ac56-4a92-a82c-f4a8942b5558
   
   ## Table of Contents
   
@@ -21,6 +22,8 @@
   ## Installation Instructions
   
   * In order to install this application, the user will need to clone the repository. Once the repository is opened locally, the user needs to make sure they are in the root folder. Next, the user can navigate to the command line and type the following script in orders to install the application: npm install
+
+  ![](oop-insomnia-tests.png)
   
   ## Usage
   
